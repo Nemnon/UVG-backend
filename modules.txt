@@ -1,0 +1,1 @@
+npm i -S axios fastify fastify-cors fastify-jwt fastify-plugin fastify-static google-spreadsheet mariadb moment
